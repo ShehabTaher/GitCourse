@@ -1,0 +1,28 @@
+
+/* Video 2 : What is Git */
+
+=> Git: -https://git-scm.com/
+        -is a free and open source distributed version control system designed to handle everything from small to 
+        very large projects with speed and efficiency.
+        -is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+        -Control & tracking of code changes over time
+==> Brief : Git is version control system & Mange code history and track changes for local machine , you can't reach code from any other computer or if you lose you data so it is a problem
+-------------------------------------------------------------------------------------------------------------------------------
+/* Video 2 : What is GitHub */
+
+=> GitHub: - https://github.com/
+           -is a web-based platform that provides hosting for software development version control using Git. 
+           -offers the distributed version control and source code management (SCM) functionality. 
+           -allows developers to collaborate on projects, track changes, and manage software development workflows. 
+           -provides a range of features, including code review, issue tracking, project management, and integration with other tools.
+           -widely used by developers and open-source communities. It hosts millions of repositories (projects) and has become a popular platform for sharing and collaborating on code.
+           - Git Repository Hosting   
+-------------------------------------------------------------------------------------------------------------------------------
+/* Video 3 : Course Content */
+
+1 - Windows Command Prompt (optional)
+2 - The Basics: Commits & Branches (Git)
+3 - Deep Dive: Merging & Rebasing & More (Git)
+4 - The Basics: Local vs Remote repositories (GitHub)
+5 - Deep Dive: Pull Requests & Organizations & More (GitHub)
+6 - (Practice Project)

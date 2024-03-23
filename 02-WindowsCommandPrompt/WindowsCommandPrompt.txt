@@ -1,0 +1,61 @@
+
+/* Video 2 : The Command Line */
+
+=> GUI: - Graphical User Interface
+        - User Friendly
+        - Easy to Explore
+=> Command Prompt: - Time Saving
+                   - More Possibilities (Start Servers & Download + Install Tools & Run Code & Execute Files and working with  [Git] )
+
+-------------------------------------------------------------------------------------------------------------------------------
+/* Video 3 : Comparing Mac & windows Command Line */
+
+=> Mac Terminology: - Terminal -> Text Input Environment (Hardware)
+                    - Shell -> Text Input Interface (software) ---> a. Bash   b. zsh (Z-shell)
+=> Windows Terminology: - Initial Windows Shell -> Command Prompt (cmd)
+                        - New Shell (windows 7 release) -> PowerShell
+                        - Bash Emulation for windows : Git Bash
+=> Command Line Tools: - Command Prompt (cmd) for windows
+                       - Terminal (z-shell) for Mac 
+-------------------------------------------------------------------------------------------------------------------------------
+/* Video 12 : windows Command Prompt */
+
+=> Commands : 1- dir  : home directory
+              2- cd (print current path) : change directory  -> cd.. (in cmd) : move one hierarchy level 
+              3- change drive -> d: (in cmd) : change drive from c to d 
+-------------------------------------------------------------------------------------------------------------------------------
+/* Video 13 : Absolute vs Relative paths */
+
+=> Commands : 1- cd + folderName : navigate this folder
+              2- cd + folderName\supFolderName : navigate this sup folder  (Relative path)
+              3- cd + driveLetter:\folderName\supFolderName : navigate this sup folder in this drive letter (Absolute path)
+              4- cd / : navigate root directory
+-------------------------------------------------------------------------------------------------------------------------------
+/* Video 14 : Creating & Deleting files and folders */
+
+=> Commands : 1- mkdir + folder Name : make folder in this directory with this name
+              2- echo + file content > fileName.txt : make file with file name and put file content in it
+              3- type + fileName.txt : see file content in fileName.txt
+              4- cls : clear Terminal
+              5- del + fileName.txt : delete file
+              6- rmdir + folderName : delete folder
+-------------------------------------------------------------------------------------------------------------------------------
+/* Video 15 : Coping & Moving files */
+
+=> Commands : 1- copy + fileName + folderName : make copy of fileName and put it in folderName 
+              2- move + fileName + folderName : make move of fileName and put it in folderName 
+              3- move + folderName + otherFolderName : make move of folderName and put it in otherFolderName 
+-------------------------------------------------------------------------------------------------------------------------------
+/* Video 16 : Core Commands */
+
+=> Commands : 1- cd : print current path
+              2- dir : list items
+              3- cls : clear command Prompt
+              4- cd (..) : change directory
+              5- echo text > name(.type) : create file
+              6- mkdir folderName : create directory
+              7- del fil: delete file
+              8- rmdir folderName : remove directory
+              9- copy file: copy file
+              10- move file folder : move file or folder
+              ==> Link of all Command : https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
